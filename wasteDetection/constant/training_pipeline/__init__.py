@@ -11,15 +11,15 @@ DATA_DOWNLOAD_URL: str = "https://drive.google.com/file/d/1ntPt7A1Seprk0dyHJ5wyT
 
 
 
-# """
-# Data Validation realted contant start with DATA_VALIDATION VAR NAME
-# """
+"""
+Data Validation realted contant start with DATA_VALIDATION VAR NAME
+"""
 
-# DATA_VALIDATION_DIR_NAME: str = "data_validation"
+DATA_VALIDATION_DIR_NAME: str = "data_validation"
 
-# DATA_VALIDATION_STATUS_FILE = 'status.txt'
+DATA_VALIDATION_STATUS_FILE = 'status.txt'
 
-# DATA_VALIDATION_ALL_REQUIRED_FILES = ["train", "valid", "data.yaml"]
+DATA_VALIDATION_ALL_REQUIRED_FILES = ["train", "valid", "data.yaml"]
 
 
 
